@@ -1,0 +1,11 @@
+header{
+    grid-area: header;
+    background-color: aqua;
+    color: blue;
+    padding: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
