@@ -24,13 +24,3 @@ main{
   grid-area: main;
 
 }
-footer{
-  grid-area: footer;
-  background-color: aqua;
-  color: blue;
-  font-size: 50px;
-  font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}

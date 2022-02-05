@@ -1,0 +1,11 @@
+footer{
+    grid-area: footer;
+    background-color:  rgb(167, 35, 17);
+    color: white;
+    font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10pc;
+  }
